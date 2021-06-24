@@ -29,6 +29,9 @@ export default function BasicExample() {
           <li>
             <Link to="/dashboard">Dashboard</Link>
           </li>
+          <li>
+            <Link to="/v2">v2</Link>
+          </li>
         </ul>
 
         <hr />
